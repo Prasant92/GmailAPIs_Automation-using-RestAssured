@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6282" started-at="2021-08-06T07:56:14 IST" finished-at="2021-08-06T07:56:20 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6282" started-at="2021-08-06T07:56:14 IST" finished-at="2021-08-06T07:56:20 IST">
+      <class name="com.Rest.GetSpecifiedMessageAttachementBasedOnMessageIDGmail">
+        <test-method status="PASS" signature="preCond()[pri:0, instance:com.Rest.GetSpecifiedMessageAttachementBasedOnMessageIDGmail@95a785]" name="preCond" is-config="true" duration-ms="1274" started-at="2021-08-06T07:56:14 IST" finished-at="2021-08-06T07:56:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCond -->
+        <test-method status="PASS" signature="test()[pri:1, instance:com.Rest.GetSpecifiedMessageAttachementBasedOnMessageIDGmail@95a785]" name="test" duration-ms="4160" started-at="2021-08-06T07:56:15 IST" finished-at="2021-08-06T07:56:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="getMessagesListUsingLabelID()[pri:2, instance:com.Rest.GetSpecifiedMessageAttachementBasedOnMessageIDGmail@95a785]" name="getMessagesListUsingLabelID" duration-ms="769" started-at="2021-08-06T07:56:19 IST" finished-at="2021-08-06T07:56:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMessagesListUsingLabelID -->
+      </class> <!-- com.Rest.GetSpecifiedMessageAttachementBasedOnMessageIDGmail -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
